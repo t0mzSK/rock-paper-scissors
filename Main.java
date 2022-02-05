@@ -50,7 +50,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String computer_choice, player_choice, result;
-        //System.out.println(evaluateGame("rock", "paper"));
 
         while (true) {
             System.out.println("-------------------");
